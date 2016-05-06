@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dictatendogmatieklocus03kuyp/dictatendogmatieklocus03kuyp_0201.png"; bbox 0 0 2242 3037; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 661 226 1594 318">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 661 226 1594 318">
+     <span class='ocr_line' id='line_1_1' title="bbox 661 226 1594 318; baseline 0.004 -4"><span class='ocrx_word' id='word_1_1' title='bbox 661 226 1594 318; x_wconf 68' lang='lat' dir='ltr'>LOCUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 144 817 2091 961">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 144 817 2091 961">
+     <span class='ocr_line' id='line_1_2' title="bbox 144 817 2091 961; baseline -0.003 0"><span class='ocrx_word' id='word_1_2' title='bbox 144 817 2091 961; x_wconf 74' lang='lat' dir='ltr'><strong>OREATURIS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 474 1155 1763 1239">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 474 1155 1763 1239">
+     <span class='ocr_line' id='line_1_3' title="bbox 474 1155 1763 1239; baseline -0.002 -3"><span class='ocrx_word' id='word_1_3' title='bbox 474 1159 576 1239; x_wconf 80' lang='lat' dir='ltr'>A.</span> <span class='ocrx_word' id='word_1_4' title='bbox 651 1156 1003 1235; x_wconf 74' lang='lat' dir='ltr'>LOCUS</span> <span class='ocrx_word' id='word_1_5' title='bbox 1056 1157 1204 1234; x_wconf 82' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_6' title='bbox 1256 1155 1763 1234; x_wconf 71' lang='lat' dir='ltr'><strong>ANGELIS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 368 1459 1857 1510">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 368 1459 1857 1510">
+     <span class='ocr_line' id='line_1_4' title="bbox 368 1459 1857 1510; baseline -0.001 -1"><span class='ocrx_word' id='word_1_7' title='bbox 368 1461 835 1510; x_wconf 76' lang='lat' dir='ltr'>COLLEGE-DIOTAAT</span> <span class='ocrx_word' id='word_1_8' title='bbox 883 1461 990 1508; x_wconf 83' lang='lat' dir='ltr'>VAN</span> <span class='ocrx_word' id='word_1_9' title='bbox 1037 1460 1501 1508; x_wconf 77' lang='lat' dir='ltr'>ONDERSCHEIDENE</span> <span class='ocrx_word' id='word_1_10' title='bbox 1550 1459 1857 1508; x_wconf 81' lang='lat' dir='ltr'><strong>STUDENTEN.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 594 1984 1628 2016">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 594 1984 1628 2016">
+     <span class='ocr_line' id='line_1_5' title="bbox 594 1984 1628 2016; baseline -0.003 -1"><span class='ocrx_word' id='word_1_11' title='bbox 594 1986 805 2016; x_wconf 69' lang='lat' dir='ltr'>NttET</span> <span class='ocrx_word' id='word_1_12' title='bbox 853 1986 953 2015; x_wconf 81' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_13' title='bbox 1003 1986 1182 2014; x_wconf 78' lang='lat' dir='ltr'>DEN</span> <span class='ocrx_word' id='word_1_14' title='bbox 1231 1984 1628 2014; x_wconf 80' lang='lat' dir='ltr'>HANDEL-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 404 2654 1875 2975">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 404 2654 1875 2975">
+     <span class='ocr_line' id='line_1_6' title="bbox 404 2654 1875 2975; baseline 0 62"><span class='ocrx_word' id='word_1_15' title='bbox 404 2654 1875 2975; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
